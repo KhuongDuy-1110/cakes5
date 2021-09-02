@@ -26,7 +26,8 @@
 
 ## Demo sản phẩm
 ### Ghé thăm website [tại đây](https://fauceter.club/)
+- Trang chủ<br>
 ![alt](https://github.com/KhuongDuy-1110/cakes5/blob/master/screencapture-fauceter-club-2021-09-02-21_14_54.png)
-<br>
 
+- Trang cửa hàng<br>
 ![alt](https://github.com/KhuongDuy-1110/cakes5/blob/master/screencapture-fauceter-club-shop-2021-09-02-21_23_08.png)
